@@ -1,15 +1,16 @@
 // @Author Lin Ya
 // @Email xxbbb@vip.qq.com
 #include <getopt.h>
+
 #include <string>
+
 #include "EventLoop.h"
 #include "Server.h"
 #include "base/Logging.h"
 
-
 int main(int argc, char *argv[]) {
   int threadNum = 4;
-  int port = 80;
+  int port = 8888;
   std::string logPath = "./WebServer.log";
 
   // parse args

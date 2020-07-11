@@ -1,0 +1,21 @@
+2020-07-11 09:36:02
+New connection from 127.0.0.1:60514 -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/Server.cpp:45
+2020-07-11 09:36:02
+Request:   -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/HttpData.cpp:160
+2020-07-11 09:36:02
+FD = 14, ****** -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/HttpData.cpp:196
+2020-07-11 09:36:04
+New connection from 127.0.0.1:60516 -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/Server.cpp:45
+2020-07-11 09:36:04
+Request: GET  HTTP/1.1 -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/HttpData.cpp:160
+2020-07-11 09:36:04
+FD = 14,GET  HTTP/1.1****** -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/HttpData.cpp:196
+2020-07-11 09:36:06
+New connection from 127.0.0.1:60518 -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/Server.cpp:45
+2020-07-11 09:36:06
+Request: GET / HTTP/1.1
+Host: 192.168.52.135:8888
+Content-Type: application/x-www-form-urlencoded
+Connection: Keep-Alive
+
+ -- /home/icespark/project/c_cpp/webserver/myWebServer/WebServer/WebServer/HttpData.cpp:160
